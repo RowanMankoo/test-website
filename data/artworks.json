@@ -1,0 +1,46 @@
+{
+  "featured": [
+    {
+      "id": "artwork1",
+      "title": "Sample Artwork 1",
+      "description": "Description of the first artwork piece",
+      "image": "images/artwork1.jpg",
+      "year": "2024",
+      "medium": "Oil on canvas"
+    },
+    {
+      "id": "artwork2", 
+      "title": "Sample Artwork 2",
+      "description": "Description of the second artwork piece",
+      "image": "images/artwork2.jpg",
+      "year": "2024",
+      "medium": "Acrylic on canvas"
+    }
+  ],
+  "all": [
+    {
+      "id": "artwork1",
+      "title": "Sample Artwork 1",
+      "description": "Description of the first artwork piece",
+      "image": "images/artwork1.jpg",
+      "year": "2024",
+      "medium": "Oil on canvas"
+    },
+    {
+      "id": "artwork2", 
+      "title": "Sample Artwork 2",
+      "description": "Description of the second artwork piece",
+      "image": "images/artwork2.jpg",
+      "year": "2024",
+      "medium": "Acrylic on canvas"
+    },
+    {
+      "id": "artwork3",
+      "title": "Sample Artwork 3", 
+      "description": "Description of the third artwork piece",
+      "image": "images/artwork3.jpg",
+      "year": "2023",
+      "medium": "Mixed media"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "education": [
+    {
+      "institution": "Art Institute",
+      "degree": "Master of Fine Arts",
+      "year": "2022-2024",
+      "description": "Specialization in Contemporary Art Practices"
+    },
+    {
+      "institution": "University College", 
+      "degree": "Bachelor of Fine Arts",
+      "year": "2018-2022",
+      "description": "Major in Visual Arts with focus on painting and mixed media"
+    }
+  ],
+  "exhibitions": [
+    {
+      "title": "Solo Exhibition: Reflections",
+      "venue": "Gallery Space",
+      "year": "2024",
+      "description": "A collection of recent works exploring themes of identity and place"
+    },
+    {
+      "title": "Group Show: Emerging Voices",
+      "venue": "Contemporary Art Center", 
+      "year": "2023",
+      "description": "Featured alongside other emerging contemporary artists"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Emerging Artist Award",
+      "organization": "Arts Council",
+      "year": "2024",
+      "description": "Recognition for outstanding contribution to contemporary art"
+    }
+  ]
+}

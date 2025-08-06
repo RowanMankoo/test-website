@@ -1,0 +1,16 @@
+[
+  {
+    "id": "research1",
+    "title": "Contemporary Art Practices",
+    "date": "2024-01-15",
+    "content": "An exploration of contemporary art practices and their impact on modern society. This research examines the evolution of artistic expression in the digital age.",
+    "image": "images/research1.jpg"
+  },
+  {
+    "id": "research2", 
+    "title": "Material Studies in Art",
+    "date": "2023-11-20",
+    "content": "A comprehensive study of various materials used in contemporary art and their symbolic meanings. This work investigates how material choice affects viewer perception.",
+    "image": "images/research2.jpg"
+  }
+]
