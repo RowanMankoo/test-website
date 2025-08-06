@@ -3,7 +3,7 @@
     {
       "id": "artwork1",
       "title": "Sample Artwork 1",
-      "description": "Description of the first artwork piece",
+      "description": "Description of the first artwork piece test",
       "image": "images/artwork1.png",
       "year": "2024",
       "medium": "Oil on canvas"
